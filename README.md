@@ -1,5 +1,5 @@
 # bill_explainer
-Dynamic web page that displays details of a customer bill based on a response to an AJAX call. 
+Dynamic web page that displays details of a customer bill based on a response to an AJAX call. In this repository, is a single custom Javascript that is part of a larger content management system with HTML, CSS and other JS files.
 
 ![na](https://github.com/ryryanb/bill_explainer/blob/master/pg1top.jpg)
 ![na](https://github.com/ryryanb/bill_explainer/blob/master/pg1_mid.jpg)
